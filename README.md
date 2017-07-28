@@ -29,11 +29,11 @@ Timer starts when you press accept on the character creation screen
 
 #### Tut island
 
-	Runescape guide [3]
+Runescape guide [3]
 
-	Drop your items to not run out of run
+Drop your items to not run out of run
 
-	Don’t forget to become Ironman [2nd dialogue option]
+Don’t forget to become Ironman [2nd dialogue option]
 
 
 
@@ -41,43 +41,43 @@ Timer starts when you press accept on the character creation screen
 
 #### Lumbridge I (but not visiting wizard's tower)
 
-	SELL: dagger, sword, shield, pot , body runes, axe, bow, bread, and fishing net
+SELL: dagger, sword, shield, pot , body runes, axe, bow, bread, and fishing net
 
-	BUY: hammer, shears, bucket from general store
+BUY: hammer, shears, bucket from general store
 
-	Shear 3 sheep
+Shear 3 sheep
 
-	Claim Ironman armor from Adam/Paul
+Claim Ironman armor from Adam/Paul
 
-	Grab log from upstairs lumby castle bank
+Grab log from upstairs lumby castle bank
 
-	BANK: put everything away
+BANK: put everything away
 
     Start RM [1,1]
 
     Start RG [3,1]
 
-	Get ghostspeak [2,1]
+Get ghostspeak [2,1]
 
-	Grab leather gloves
+Grab leather gloves
 
-	Clan wars teleport, walk in portal to restore run
+Clan wars teleport, walk in portal to restore run
 
-	Home teleport
+Home teleport
 
-	Talk to ghost about skull [1]
+Talk to ghost about skull [1]
 
-	Count Check teleport (4-1)
+Count Check teleport (4-1)
 
-	
+
 
 #### First level of Stronghold of Security
 
-	Go along far north path to first treasure chest
+Go along far north path to first treasure chest
 
-	Claim it
+Claim it
 
-	Use the ladder to exit
+Use the ladder to exit
 
 
 
@@ -87,9 +87,9 @@ Timer starts when you press accept on the character creation screen
 
     Buy woad leaves [1,4]
 
-	BANK Fal east: Deposit all 
+BANK Fal east: Deposit all 
 
-		WITHDRAW: money, pickaxe, air/mind runes, 2 buckets
+WITHDRAW: money, pickaxe, air/mind runes, 2 buckets
 
     Run down towards Falador Farm/Cow Pasture
 
@@ -97,13 +97,13 @@ Timer starts when you press accept on the character creation screen
 
     Grab egg from farm (southwest pen)
 
-	Run to Port Sarim
+Run to Port Sarim
 
     Talk to Redbeard to start PT [1,1]
 
     Karamja stuff
 
-		Rope, 3 beers, rum
+Rope, 3 beers, rum
 
     White apron
 
@@ -111,9 +111,9 @@ Timer starts when you press accept on the character creation screen
 
     Grab rum
 
-	Buy from betty: Eye of Newt, Wizard hat, ~50 air runes, ~60 mind runes, ~50 water runes, ~40 earth runes
+Buy from betty: Eye of Newt, Wizard hat, ~50 air runes, ~60 mind runes, ~50 water runes, ~40 earth runes
 
-		Try to save 1100 gp
+Try to save 1100 gp
 
 
 
@@ -131,25 +131,25 @@ Timer starts when you press accept on the character creation screen
 
     Mine copper, tin, and clay
 
-		Pray to God Ash for good bot luck
+Pray to God Ash for good bot luck
 
  
 
 #### Head to Draynor Village
 
-	Give rum to redbeard
+Give rum to redbeard
 
     Start VS [2] and grab garlic
 
     Bank
 
-	WITHDRAW: all money
+WITHDRAW: all money
 
     Buy ~20 wines and chronicle + 3 pages
 
     Bank, put everything away, grab out air talisman, chronicle.
 
-	Run to Wizard's tower
+Run to Wizard's tower
 
     Talk to Wizard for RM
 
@@ -157,9 +157,9 @@ Timer starts when you press accept on the character creation screen
 
     Deathwarp
 
-		Our invent should be package, skull, chronicle.
+Our invent should be package, skull, chronicle.
 
-		
+
 
 #### Lumbridge
 
@@ -167,19 +167,19 @@ Timer starts when you press accept on the character creation screen
 
     Chronicle Teleport
 
-	
+
 
 #### Varrock
 
-	Grab 1 cadava and 4 redberries
+Grab 1 cadava and 4 redberries
 
     Run up to Juliet
 
-		Start RJ
+Start RJ
 
     Run to V West Bank
 
-		WITHDRAW: all money, package, shears, bucket, key, beer, clay, love letter
+WITHDRAW: all money, package, shears, bucket, key, beer, clay, love letter
 
     Buy staff from Zaff
 
@@ -191,7 +191,7 @@ Timer starts when you press accept on the character creation screen
 
     Go down to Blue Moon Inn
 
-		BUY A BEER and give to Dr.Harlow
+BUY A BEER and give to Dr.Harlow
 
         PT Chest upstairs
 
@@ -201,11 +201,11 @@ Timer starts when you press accept on the character creation screen
 
     Buy iron chainbody
 
-	Fill bucket at fountain, wet the clay, fill bucket
+Fill bucket at fountain, wet the clay, fill bucket
 
-	Talk to Sir Prysin about the Silverlight [3,1,2,1]
+Talk to Sir Prysin about the Silverlight [3,1,2,1]
 
-	Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
+Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
 
     Get water and pour down drain
 
@@ -217,129 +217,129 @@ Timer starts when you press accept on the character creation screen
 
     Clan wars tp
 
-	
+
 
 #### Clan Wars
 
     Clan wars bank
 
-	WITHDRAW: Get mage gear, runes, wizard mind bombs, log, tinderbox from bank
+WITHDRAW: Get mage gear, runes, wizard mind bombs, log, tinderbox from bank
 
-	Start PAR, then =*=*=*=talk to osman [1,2]=*=*=*=
+Start PAR, then =*=*=*=talk to osman [1,2]=*=*=*=
 
-	Home teleport
+Home teleport
 
-	Relclaim runes
+Relclaim runes
 
-	Light fire at chicken coop
+Light fire at chicken coop
 
-	Run to chickens, get 25 bones, sip a mind bomb every time you level up
+Run to chickens, get 25 bones, sip a mind bomb every time you level up
 
-	Run to lumbridge bank
+Run to lumbridge bank
 
-	WITHDRAW: coins, egg, milk, flour, 3 wool, onions, red berries, woad leaves, soft clay, bucket of water, ashes, 2-3 wine
+WITHDRAW: coins, egg, milk, flour, 3 wool, onions, red berries, woad leaves, soft clay, bucket of water, ashes, 2-3 wine
 
-	Spin wool
+Spin wool
 
-	Finish cook's assistant
+Finish cook's assistant
 
-	Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1]
+Talk to Lady Keli in order to make imprint of jail key [1,2,3,1,1]
 
-	Make all dyes and skin paste, make orange dye
+Make all dyes and skin paste, make orange dye
 
-		3) [1,1] for skin paste dialogue
+3) [1,1] for skin paste dialogue
 
-	Have Ned make you a wig [1,2,1], dye yellow
+Have Ned make you a wig [1,2,1], dye yellow
 
-	Bank at draynor, deposit everything
+Bank at draynor, deposit everything
 
-	WITHDRAW: 25 bones and RM notes
+WITHDRAW: 25 bones and RM notes
 
-	Turn in bones and then notes
+Turn in bones and then notes
 
-	Die to wizard
+Die to wizard
 
-	
+
 
 #### Lumbridge 
 
-	Run to bank 
+Run to bank 
 
-	WITHDRAW: Copper, tin, mould, 20 gp, pink skirt, wig, skin paste, rope, 3 beers
+WITHDRAW: Copper, tin, mould, 20 gp, pink skirt, wig, skin paste, rope, 3 beers
 
-	Run to Al k, smelt bronze bar, give to Osman
+Run to Al k, smelt bronze bar, give to Osman
 
-	Run to prison,talk to leela, give guard beers, tie up kelly, rescue Prince Ali
+Run to prison,talk to leela, give guard beers, tie up kelly, rescue Prince Ali
 
-	Deathwarp
+Deathwarp
 
-	Run to finish PAR
+Run to finish PAR
 
-	Bank at Al k 
+Bank at Al k 
 
-	WITHDRAW: mage gear, stake, hammer, garlic, iron chain, coins, chronicle, wines, cabbage, dyes (leave 3 inv spaces)
+WITHDRAW: mage gear, stake, hammer, garlic, iron chain, coins, chronicle, wines, cabbage, dyes (leave 3 inv spaces)
 
-	Shantay Pass warp
+Shantay Pass warp
 
-	Run to Draynor manor, stop at betty's if you need more runes (50ish earth strike casts)
+Run to Draynor manor, stop at betty's if you need more runes (50ish earth strike casts)
 
-	Start ETC
-
-	
-
-	ETC lever puzzle notes
+Start ETC
 
 
-		Pull Levers A and B down.
-		Enter Door 1.
-		Pull Lever D down; leave C up.
-		Enter Door 1.
-		Pull Levers A and B up.
-		Enter Doors 3, 4 and 5.
-		Pull Levers E and F down.
-		Enter Doors 6 and 7.
-		Pull Lever C down.
-		Enter Doors 7 and 6.
-		Pull Lever E up.
-		Enter Doors 6, 8 and 3.
+
+ETC lever puzzle notes
 
 
-	Complete VS whenever you run past the staircase
+Pull Levers A and B down.
+Enter Door 1.
+Pull Lever D down; leave C up.
+Enter Door 1.
+Pull Levers A and B up.
+Enter Doors 3, 4 and 5.
+Pull Levers E and F down.
+Enter Doors 6 and 7.
+Pull Lever C down.
+Enter Doors 7 and 6.
+Pull Lever E up.
+Enter Doors 6, 8 and 3.
 
-	Finish ETC
 
-	Exit draynor manner, grabbing spade and bronze helm
+Complete VS whenever you run past the staircase
 
-	Run to Falador park, finish PT
+Finish ETC
 
-	Start BKF
+Exit draynor manner, grabbing spade and bronze helm
 
-	Do Goblin Diplomacy
+Run to Falador park, finish PT
 
-	Goblin mail locations:
+Start BKF
 
-		Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies
+Do Goblin Diplomacy
 
-	Run through wilderness to BKF
+Goblin mail locations:
 
-	Hidden route, then door, drop cabbage down hole
+Up ladder, in mid-left hut, behind generals’ (right side) for the goblin bodies
 
-	Run back to falador
+Run through wilderness to BKF
 
-	bank at west bank deposit all, then get final inventory
+Hidden route, then door, drop cabbage down hole
 
-	WITHDRAW: 3 DS keys, cadava berry, chronical, and final fight stuff(Armor, shield, cape, gloves, ale, wine)
+Run back to falador
 
-	finish BKF
+bank at west bank deposit all, then get final inventory
 
-	clan wars tele for run
+WITHDRAW: 3 DS keys, cadava berry, chronical, and final fight stuff(Armor, shield, cape, gloves, ale, wine)
 
-	Chronicle teleport
+finish BKF
 
-	Apothecary, Juliet, Romeo
+clan wars tele for run
 
-	Get Silverlight, Chronicle teleport (if you have the pages) when you get the message that you have it
+Chronicle teleport
 
-	Fight Delrith
+Apothecary, Juliet, Romeo
 
-	Chronicle and finish (if you have the pages)
+Get Silverlight, Chronicle teleport (if you have the pages) when you get the message that you have it
+
+Fight Delrith
+
+Chronicle and finish (if you have the pages)
