@@ -53,9 +53,9 @@ Grab log from upstairs lumby castle bank
 
 BANK: put everything away
 
-    Start RM [1,1]
+Start RM [1,1]
 
-    Start RG [3,1]
+Start RG [3,1]
 
 Get ghostspeak [2,1]
 
@@ -83,33 +83,33 @@ Use the ladder to exit
 
 #### Run to Falador
 
-    Buy 1 Asgarnian Ale and 6 Mind Bombs
+Buy 1 Asgarnian Ale and 6 Mind Bombs
 
-    Buy woad leaves [1,4]
+Buy woad leaves [1,4]
 
 BANK Fal east: Deposit all 
 
 WITHDRAW: money, pickaxe, air/mind runes, 2 buckets
 
-    Run down towards Falador Farm/Cow Pasture
+Run down towards Falador Farm/Cow Pasture
 
-    Milk a cow
+Milk a cow
 
-    Grab egg from farm (southwest pen)
+Grab egg from farm (southwest pen)
 
 Run to Port Sarim
 
-    Talk to Redbeard to start PT [1,1]
+Talk to Redbeard to start PT [1,1]
 
-    Karamja stuff
+Karamja stuff
 
 Rope, 3 beers, rum
 
-    White apron
+White apron
 
-    Wydin = 2 pot of flour, raw meat
+Wydin = 2 pot of flour, raw meat
 
-    Grab rum
+Grab rum
 
 Buy from betty: Eye of Newt, Wizard hat, ~50 air runes, ~60 mind runes, ~50 water runes, ~40 earth runes
 
@@ -119,17 +119,17 @@ Try to save 1100 gp
 
 #### Head to Rimmington
 
-    Get 5 onions and cabbage
+Get 5 onions and cabbage
 
-    Burn meat
+Burn meat
 
-    Start WP
+Start WP
 
-    Kill rat
+Kill rat
 
-    End WP
+End WP
 
-    Mine copper, tin, and clay
+Mine copper, tin, and clay
 
 Pray to God Ash for good bot luck
 
@@ -139,23 +139,23 @@ Pray to God Ash for good bot luck
 
 Give rum to redbeard
 
-    Start VS [2] and grab garlic
+Start VS [2] and grab garlic
 
-    Bank
+Bank
 
 WITHDRAW: all money
 
-    Buy ~20 wines and chronicle + 3 pages
+Buy ~20 wines and chronicle + 3 pages
 
-    Bank, put everything away, grab out air talisman, chronicle.
+Bank, put everything away, grab out air talisman, chronicle.
 
 Run to Wizard's tower
 
-    Talk to Wizard for RM
+Talk to Wizard for RM
 
-    Grab skull
+Grab skull
 
-    Deathwarp
+Deathwarp
 
 Our invent should be package, skull, chronicle.
 
@@ -163,9 +163,9 @@ Our invent should be package, skull, chronicle.
 
 #### Lumbridge
 
-    Complete RG
+Complete RG
 
-    Chronicle Teleport
+Chronicle Teleport
 
 
 
@@ -173,33 +173,33 @@ Our invent should be package, skull, chronicle.
 
 Grab 1 cadava and 4 redberries
 
-    Run up to Juliet
+Run up to Juliet
 
 Start RJ
 
-    Run to V West Bank
+Run to V West Bank
 
 WITHDRAW: all money, package, shears, bucket, key, beer, clay, love letter
 
-    Buy staff from Zaff
+Buy staff from Zaff
 
-    Talk to Gypsy and start DS [1,3,3, cutscene, 4]
+Talk to Gypsy and start DS [1,3,3, cutscene, 4]
 
-    Buy pink skirt and red cape
+Buy pink skirt and red cape
 
-    Talk to Romeo
+Talk to Romeo
 
-    Go down to Blue Moon Inn
+Go down to Blue Moon Inn
 
 BUY A BEER and give to Dr.Harlow
 
-        PT Chest upstairs
+PT Chest upstairs
 
-    Talk to Aubury [3]
+Talk to Aubury [3]
 
-        Get Package
+Get Package
 
-    Buy iron chainbody
+Buy iron chainbody
 
 Fill bucket at fountain, wet the clay, fill bucket
 
@@ -207,21 +207,21 @@ Talk to Sir Prysin about the Silverlight [3,1,2,1]
 
 Get Sir Rovin’s key, he's on the 2nd floor if you go up the northwestern staircase. [3,1,2,2,3,1]
 
-    Get water and pour down drain
+Get water and pour down drain
 
-    Reobtain water at fountain
+Reobtain water at fountain
 
-    Talk to Father Lawrence
+Talk to Father Lawrence
 
-    Go down into sewers and get key
+Go down into sewers and get key
 
-    Clan wars tp
+Clan wars tp
 
 
 
 #### Clan Wars
 
-    Clan wars bank
+Clan wars bank
 
 WITHDRAW: Get mage gear, runes, wizard mind bombs, log, tinderbox from bank
 
