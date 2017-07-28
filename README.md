@@ -1,9 +1,11 @@
-<h1>Authenticator-Champions-Guild-Route</h2>
+# Authenticator-Champions-Guild-Route
 
+```
 Based on notes by TheDarkestUno, Muffyn, and aeiou.
 Formatted by aeiou.
+```
 
-<h2>Setup</h2>
+## Setup
 
 Make a new account using the new account button in the client
 
