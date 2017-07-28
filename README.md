@@ -1,9 +1,9 @@
 # Authenticator-Champions-Guild-Route
 
-```
+<center>
 Based on notes by TheDarkestUno, Muffyn, and aeiou.
 Formatted by aeiou.
-```
+</center>
 
 ## Setup
 
