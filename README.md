@@ -4,14 +4,15 @@ Based on notes by TheDarkestUno, Muffyn, and aeiou.
 Formatted by aeiou.
 
 <h2>Setup</h2>
-<p>
+
 Make a new account using the new account button in the client
+
 Its email should be a throwaway email you have because verification is required
 With gmail you can do email+1@gmail.com to use the same name each time
 Go to the main oldschool page and click enable authenticator
 Open google authenticator on your phone and scan the code
 Log in on the client and enter the authenticator code
-</p>
+
 
 Timer starts when you press accept on the character creation screen
 
