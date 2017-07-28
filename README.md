@@ -27,7 +27,7 @@ Timer starts when you press accept on the character creation screen
 
 
 
-### Tut island
+#### Tut island
 
 	Runescape guide [3]
 
@@ -39,7 +39,7 @@ Timer starts when you press accept on the character creation screen
 
 
 
-### Lumbridge I (but not visiting wizard's tower)
+#### Lumbridge I (but not visiting wizard's tower)
 
 	SELL: dagger, sword, shield, pot , body runes, axe, bow, bread, and fishing net
 
@@ -71,7 +71,7 @@ Timer starts when you press accept on the character creation screen
 
 	
 
-### First level of Stronghold of Security
+#### First level of Stronghold of Security
 
 	Go along far north path to first treasure chest
 
@@ -81,7 +81,7 @@ Timer starts when you press accept on the character creation screen
 
 
 
-### Run to Falador
+#### Run to Falador
 
     Buy 1 Asgarnian Ale and 6 Mind Bombs
 
@@ -117,7 +117,7 @@ Timer starts when you press accept on the character creation screen
 
 
 
-### Head to Rimmington
+#### Head to Rimmington
 
     Get 5 onions and cabbage
 
@@ -135,7 +135,7 @@ Timer starts when you press accept on the character creation screen
 
  
 
-### Head to Draynor Village
+#### Head to Draynor Village
 
 	Give rum to redbeard
 
@@ -161,7 +161,7 @@ Timer starts when you press accept on the character creation screen
 
 		
 
-### Lumbridge
+#### Lumbridge
 
     Complete RG
 
@@ -169,7 +169,7 @@ Timer starts when you press accept on the character creation screen
 
 	
 
-### Varrock
+#### Varrock
 
 	Grab 1 cadava and 4 redberries
 
@@ -219,7 +219,7 @@ Timer starts when you press accept on the character creation screen
 
 	
 
-### Clan Wars
+#### Clan Wars
 
     Clan wars bank
 
@@ -261,7 +261,7 @@ Timer starts when you press accept on the character creation screen
 
 	
 
-### Lumbridge 
+#### Lumbridge 
 
 	Run to bank 
 
@@ -289,7 +289,7 @@ Timer starts when you press accept on the character creation screen
 
 	ETC lever puzzle notes
 
-```
+
 		Pull Levers A and B down.
 		Enter Door 1.
 		Pull Lever D down; leave C up.
@@ -302,7 +302,7 @@ Timer starts when you press accept on the character creation screen
 		Enter Doors 7 and 6.
 		Pull Lever E up.
 		Enter Doors 6, 8 and 3.
-```
+
 
 	Complete VS whenever you run past the staircase
 
